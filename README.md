@@ -23,3 +23,29 @@ Here you can view and add to this code. Redistribution of any kind is prohibited
 The code is not to leave the repository. No downloads. Sharing can only be made via a link to the repository.
 
 The code in this repository is provided on an "AS IS" and "AS AVAILABLE" basis. No warranty, explicitly or implied, is provided. By viewing, using, and contributing to this project you agree with the terms stated above.
+
+## The Plan
+
+We will use some of the origional compoets to create a new web portal. 
+Features:
+
+New Code                                       | Origional Code
+---------------------------------------------- | ------------------------------------------------
+Create an account (Users)                      | Google search 
+News feed                                      | Shout box
+Texting/chatting                               | Guestbook (updated to be linked to the accounts feature)
+Weather feed                                   |
+Quick acess to popular links like social media |
+
+## Planned File Tree
+
+    | main
+    |  |
+    |  | Homepage.file (incledes search, shoutbox, quick links)
+    |  | Newsfeed.file
+    |  | Weather.file
+    |  | Chat.file
+    |  | Componets.folder
+    |  |      | (componets and code fils go here)
+    |  | account/settings.file
+    |  |      | (account/settings stuff here)
