@@ -2,7 +2,7 @@
 JDip is an online web portal for your needs.
 
 ## ABOUT
-My uncle, John DiPlacido, made a web portal for our family. Originally called ".: John's Home Page :.", it had many web portal features: a new feed, chatroom, guestbook, ect. Unfortunately, Uncle Johnny passed a few years back. I decided to remake it in his name, and titled it "The J". Here I am sharing some original snippets of the source code (retrieved from the Internet Archive, located in the [`old`](https://github.com/lfils658/JDip/tree/old) branch), as well as my new code. in the [`main`](https://github.com/lfils658/JDip/tree/main) branch.
+My uncle, John DiPlacido, made a web portal for our family. Originally called ".: John's Home Page :.", it had many web portal features: a news feed, chatroom, guestbook, ect. Unfortunately, Uncle Johnny passed a few years back. I decided to remake it in his name, and titled it "The J". Here I am sharing some original snippets of the source code (retrieved from the Internet Archive, located in the [`old`](https://github.com/lfils658/JDip/tree/old) branch), as well as my new code. in the [`main`](https://github.com/lfils658/JDip/tree/main) branch.
 
 ## IMPORTANT
 Some portions of the original code have been exempted from the repository because it contained confedential information.
@@ -33,8 +33,7 @@ New Code                                       | Origional Code
 ---------------------------------------------- | ------------------------------------------------
 Create an account (Users)                      | Google search 
 News feed                                      | Shout box
-Texting/chatting                               | Guestbook (updated to be linked to the accounts feature)
-Weather feed                                   |
+Weather feed                                   | Guestbook (updated to be linked to the accounts feature)
 Quick acess to popular links like social media |
 
 ## Planned File Tree
@@ -44,8 +43,7 @@ Quick acess to popular links like social media |
     |  | Homepage.file (incledes search, shoutbox, quick links)
     |  | Newsfeed.file
     |  | Weather.file
-    |  | Chat.file
     |  | Componets.folder
-    |  |      | (componets and code fils go here)
+    |  |  | (componets and code fils go here)
     |  | account/settings.file
-    |  |      | (account/settings stuff here)
+    |  |  | (account/settings stuff here)
