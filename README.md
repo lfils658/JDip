@@ -31,14 +31,21 @@ NOTE: Origional compontest will be marked with a tribute to Uncle J.
 
 Features:
 
-NEW STUFF                                      | OLD STUFF
----------------------------------------------- | --------------------------------------------------------------------------------------------------
-New Code                                       | Recycled Origional Code                          | Archived Code
----------------------------------------------- | ------------------------------------------------ | -----------------------------------------------
-Create an account (Users)                      | Google Search (May voilate Google TOS)           | Shoutbox
-News feed                                      | Games (becasue they are still cool)              | Guestbook
-Weather feed                                   |                                                  | Other Code
-Quick access links                             |                                                  |
+
+New Code                                       | Recycled Origional Code                         
+---------------------------------------------- | ------------------------------------------------
+Create an account (Users)                      | Google Search (May voilate Google TOS)           
+News feed                                      | Games (becasue they are still cool)              
+Weather feed                                   |                                                  
+Quick access links                             |                                                  
+
+There will also be sone code to be archived:
+
+Archived Code
+-----------------------------------------------
+Shoutbox
+Guestbook
+Other stuff
 
 ## Planned File Tree
 
