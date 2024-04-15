@@ -39,13 +39,13 @@ News feed                                      | Games (becasue they are still c
 Weather feed                                   |                                                  
 Quick access links                             |                                                  
 
-There will also be sone code to be archived:
+There will also be sone code to be archived. We could possible repupose this code in the lat stages of the project:
 
-Archived Code
------------------------------------------------
-Shoutbox
-Guestbook
-Other stuff
+Archived Code                                  | Posible Repurposement
+---------------------------------------------- | ----------------------------------------------- 
+Shoutbox                                       | Forums 
+Guestbook                                      | Forums
+Other stuff (Image generator, etc.)            | Tribute Page
 
 ## Planned File Tree
 
